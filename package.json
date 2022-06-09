@@ -1,8 +1,9 @@
 {
   "name": "@blatomfr/country-cio",
-  "version": "1.0.2",
+  "version": "1.0.4",
   "description": "List of countries with ISO codes, numerical codes, and CIO codes",
-  "main": "index.js",
+  "main": "core/index.js",
+  "types": "core/index.d.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "tsc"
