@@ -2,7 +2,7 @@
 
 List of countries with ISO codes, numerical codes, and CIO codes
 
-# country structure
+# Country structure and returns
 
 Country is a structure containing basic infos about a country.
 
