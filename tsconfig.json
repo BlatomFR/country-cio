@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "target": "esnext",
+        "module": "commonjs",
+        "declaration": true,
+        "outDir": "./core",
+        "strict": true,
+        "moduleResolution": "node"
+    },
+    "include": [
+        "src"
+    ]
+}

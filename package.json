@@ -1,10 +1,11 @@
 {
   "name": "@blatomfr/country-cio",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "List of countries with ISO codes, numerical codes, and CIO codes",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
