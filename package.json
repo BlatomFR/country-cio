@@ -1,0 +1,24 @@
+{
+  "name": "@blatomfr/country-cio",
+  "version": "1.0.1",
+  "description": "List of countries with ISO codes, numerical codes, and CIO codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlatomFR/country-cio.git"
+  },
+  "keywords": [
+    "country",
+    "cio",
+    "iso"
+  ],
+  "author": "Bence Tomojzer",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/BlatomFR/country-cio/issues"
+  },
+  "homepage": "https://github.com/BlatomFR/country-cio#readme"
+}
